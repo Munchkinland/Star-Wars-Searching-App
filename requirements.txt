@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pillow
+pandas
+openpyxl
+svglib
+reportlab
+tqdm
+cairosvg
+flask
